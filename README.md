@@ -1,5 +1,5 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abhishek Shukla</h1>
+[![MasterHead](https://github-production-user-asset-6210df.s3.amazonaws.com/107865087/340042189-c856f71d-ae21-4454-acd4-d797891fdefc.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240714%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240714T141117Z&X-Amz-Expires=300&X-Amz-Signature=5db332b6ae8b117aa43e02b144376bf9d1c09a66a8d6b0437d65991c52e0e896&X-Amz-SignedHeaders=host&actor_id=111686252&key_id=0&repo_id=678649853)](https://rishavchanda.io)
 <h3 align="center">I am a full-stack web developer 👨‍💻 with hands-on experience in building scalable full-stack web applications and their efficient production management. I have won two national-level hackathons. 🏆🏆</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek-2400" alt="abhishek-2400" /></a> </p>
