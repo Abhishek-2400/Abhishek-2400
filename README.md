@@ -1,7 +1,8 @@
 [![MasterHead](https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif)](https://Abhishek-2400.io)
 <h1 align="center">Hi 👋, I'm Abhishek Shukla</h1>
 <h3 align="center">I am a full-stack web developer 👨‍💻 with hands-on experience in building scalable full-stack web applications. I have expertise in deploying these applications using Docker 🐳 and Kubernetes ☸️ for efficient production management. Additionally, I have demonstrated my skills by winning two national-level hackathons. 🏆🏆</h3>
-<img sr="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" alt="Oops something went wrong !">
+<img align="right" alt="Coding" width="400"  src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek-2400" alt="abhishek-2400" /></a> </p>
 
