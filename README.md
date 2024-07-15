@@ -18,7 +18,7 @@
 
 - 📫 How to reach me: **abhi2003shukla@gmail.com**
 
-- 📄 Experience: [SDE Intern at Bhoogol](SDE Intern at Bhoogol)
+- 📄 Experience: SDE Intern at Bhoogol
 
 - ⚡ Fun fact: **I like to code with white mode on**
 
