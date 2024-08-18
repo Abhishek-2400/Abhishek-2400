@@ -18,7 +18,7 @@
 
 - 📫 How to reach me: **abhi2003shukla@gmail.com**
 
-- 📄 Experience: SDE Intern at Bhoogol
+- 📄 Experience: Ex-SDE Intern at Bhoogol , Ex-SDE Intern at Logit , Ex-Core team member at GDSC JIIT
 
 - ⚡ Fun fact: **I like to code with white mode on**
 
