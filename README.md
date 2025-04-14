@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek-2400" alt="abhishek-2400" /></a> </p>
 
-- 🔭 I’m currently working on [Skypeshop - India's first LiveStream Selling platform](https://skype-shop.vercel.app/)
+- 🔭 I’m currently working on [EnergyHive](https://energytrading.vercel.app/)
 
-- 🌱 I’m currently exploring **Redis**
+- 🌱 I’m currently exploring **Nextjs**
 
 - 👨‍💻 My Portfolio: [https://64c10a9d2cdc4760b963631e--fascinating-cassata-01483f.netlify.app/#](https://64c10a9d2cdc4760b963631e--fascinating-cassata-01483f.netlify.app/#)
 
